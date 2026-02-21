@@ -1,0 +1,29 @@
+abstract class AppImages {
+  static const String logoSVG = 'assets/images/logo.svg';
+  static const String welcome = 'assets/images/welcome.png';
+  static const String carrotSVG = 'assets/icons/carrot.svg';
+  static const String account = 'assets/icons/account.svg';
+  static const String cart = 'assets/icons/cart.svg';
+  static const String explore = 'assets/icons/explore.svg';
+  static const String favorite = 'assets/icons/favorite.svg';
+  static const String filter = 'assets/icons/filter.svg';
+  static const String shop = 'assets/icons/shop.svg';
+  static const String done = 'assets/images/done.svg';
+  static const String apple = 'assets/images/apple.png';
+  static const String banana = 'assets/images/banana.png';
+  static const String ginger = 'assets/images/ginger.png';
+  static const String pepper = 'assets/images/pepper.png';
+  static const String bakery = 'assets/images/bakery.png';
+  static const String beverages = 'assets/images/beverages.png';
+  static const String egg = 'assets/images/dairyegg.png';
+  static const String fruit = 'assets/images/fruits.png';
+  static const String oil = 'assets/images/oil.png';
+  static const String meat = 'assets/images/meat.png';
+  static const String appleJuice = 'assets/images/applejuice.png';
+  static const String cocaCola = 'assets/images/cocacola.png';
+  static const String dietCola = 'assets/images/dietcola.png';
+  static const String orangeJuice = 'assets/images/orange.png';
+  static const String pepsi = 'assets/images/pepsi.png';
+  static const String sprite = 'assets/images/sprite.png';
+  static const String profilePicture = 'assets/images/profilePicture.jpg';
+}

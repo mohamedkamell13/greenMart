@@ -1,0 +1,14 @@
+[33m3d4b437[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: reset: moving to origin/main
+[33m3d4b437[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{1}: reset: moving to HEAD~1
+[33m349e579[m HEAD@{2}: reset: moving to HEAD~1
+[33m92ad46f[m HEAD@{3}: commit: updating all project structure and build all app screens , now the app is ready
+[33m349e579[m HEAD@{4}: commit: updating all project structure , building all features in app then the app is ready now
+[33m3d4b437[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{5}: commit: updating materialApp
+[33m797d397[m HEAD@{6}: commit: updating structure by adding a getAppTheme function, updating some screens by enhancing UI and add a resend otp screen
+[33mded3337[m HEAD@{7}: commit: updating file structure
+[33m4bb6c15[m HEAD@{8}: commit: updating readme file with screenshots for app
+[33m747ed65[m HEAD@{9}: commit: update project files and add auth pages
+[33mbeee5ff[m HEAD@{10}: commit: refactor: update main.dart to use AppCore
+[33m1cdc1eb[m HEAD@{11}: commit: refactor: move MaterialApp to app folder and update structure
+[33m878da1b[m HEAD@{12}: Branch: renamed refs/heads/master to refs/heads/main
+[33m878da1b[m HEAD@{14}: commit (initial): splash and welcome screen
