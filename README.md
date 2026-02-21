@@ -6,4 +6,4 @@ Store Application with flutter
 
 green mart app is an app for groceries this is app ui
 ## App Demo
-<video controls src="2026-02-21 12-56-46.mp4" ></video>
+[<video controls src="2026-02-21 12-56-46.mp4" ></video>](https://github.com/user-attachments/assets/566e6988-aee0-40e9-9007-5d0c3e71f556)
